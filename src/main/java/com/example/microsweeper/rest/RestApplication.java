@@ -15,6 +15,7 @@ public class RestApplication extends Application implements HealthCheck {
 	}
 
 }  */
+// uncomment
 
 @ApplicationPath("/api")
 public class RestApplication extends Application {
